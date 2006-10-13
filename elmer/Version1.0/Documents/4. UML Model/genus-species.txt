@@ -1,0 +1,14 @@
+genus:
+         Mus
+
+species:
+        musculus
+        musculus bactrianus
+        musculus castaneus
+        musculus gentilulus
+        musculus homourus
+        musculus molossinus
+        musculus musculus
+        musculus praetextus
+        musculus wagneri
+        domesticus
