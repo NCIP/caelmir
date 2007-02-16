@@ -1,0 +1,109 @@
+bug_id,bug_severity,priority,rep_platform,bug_status,resolution,short_short_desc
+
+137,critical,P1,PC,RESOLVED,FIXED,adding and viewing exp data
+183,critical,P1,PC,RESOLVED,FIXED,DE does not maintain data entegrity
+49,normal,P1,PC,CLOSED,FIXED,"Change the title of Section ""MANAGEMENT"" to ""WORKSPACE"""
+72,normal,P1,PC,CLOSED,FIXED,Cannot approve user registration request
+76,normal,P1,PC,CLOSED,FIXED,"On subitting the ""Study"" page the left side panel resets"
+127,normal,P1,PC,RESOLVED,FIXED,units for length and weight
+149,normal,P1,PC,RESOLVED,FIXED,Version
+162,normal,P1,PC,RESOLVED,FIXED,"Provide ""Popup"" for selecting Protocol while creating study"
+165,normal,P1,PC,RESOLVED,FIXED,Add Experiment Data: Do not show closed study in list
+169,normal,P1,PC,RESOLVED,FIXED,"shouldn't show all enteries of user, userGroup, protocol while defining experiment"
+48,normal,P2,PC,RESOLVED,FIXED,Error in user profile - Edit
+50,normal,P2,PC,CLOSED,FIXED,"On click on ""Study >> Add"" the menu at left side reset to ""Home"" menu"
+54,normal,P2,PC,RESOLVED,FIXED,Error while creating NEW INSTITUTION
+77,normal,P2,PC,RESOLVED,FIXED,Email Notification not working
+79,normal,P2,PC,RESOLVED,FIXED,"Add a ""Add new"" link near protocol list, User list and user group list"
+110,normal,P2,PC,RESOLVED,FIXED,Why is Search not a global tab and is associated with objects?
+121,normal,P2,PC,RESOLVED,FIXED,"error ""The requested resource (/AdminData.do) is not available."""
+142,normal,P2,Macintosh,RESOLVED,FIXED,[caElmir-1.0:Req-056]
+160,normal,P2,PC,RESOLVED,FIXED,"Use term ""Principle Investigator"" instead of PI"
+163,normal,P2,PC,RESOLVED,FIXED,"enable ""Add new"" link for Protocol while creating study"
+166,normal,P2,PC,RESOLVED,FIXED,View Study: display Status of the study
+168,normal,P2,PC,RESOLVED,FIXED,Show Study Status in the search results
+184,critical,P3,PC,RESOLVED,FIXED,adding new protocol from a study is broken
+186,critical,P3,PC,RESOLVED,FIXED,can not add genotype
+187,major,P3,PC,RESOLVED,FIXED,getting data from pathology fails
+51,normal,P3,PC,RESOLVED,FIXED,"Add a ""Add new"" link (disabled) near protocol list"
+52,normal,P3,PC,CLOSED,FIXED,Experiment Stop date is not mandatory
+53,normal,P3,PC,RESOLVED,INVALID,Keep Date pick-up Icon near Date text box
+55,normal,P3,PC,CLOSED,FIXED,Always use small caps
+56,normal,P3,PC,CLOSED,FIXED,"""Investigation Start Date"" should be after ""Study Description"""
+57,normal,P3,PC,CLOSED,FIXED,Description and Hypothesis should be at 5 line height
+58,normal,P3,PC,RESOLVED,FIXED,"When on the Study page, the LHS panel is reset to the home page panel."
+60,normal,P3,PC,RESOLVED,FIXED,maximum length validation
+61,normal,P3,PC,RESOLVED,FIXED,Experiment: maximum length validation
+62,normal,P3,PC,RESOLVED,FIXED,Case: Center align the buttons.
+63,normal,P3,PC,RESOLVED,FIXED,Cohort: align the buttons.
+64,normal,P3,PC,RESOLVED,FIXED,Cohort: Page does not work on IE
+65,normal,P3,PC,CLOSED,FIXED,Animal List: The column headers in the grid should be user friendly
+66,normal,P3,PC,CLOSED,FIXED,"Put ""Select Animal"" string on the Cohort page in the usual gray header."
+67,normal,P3,PC,RESOLVED,FIXED,"The order of the tabs should be ""HOME, ""ADMINISTRATIVE"", ""WORKSPACE"""
+68,normal,P3,PC,CLOSED,FIXED,Hypothesis and study requirement text area height should be 5 lines
+69,normal,P3,PC,CLOSED,FIXED,Hypothesis and study requirement text area height should be 5 lines
+71,normal,P3,PC,RESOLVED,FIXED,Use popup for selecting an item from large list.
+73,normal,P3,PC,CLOSED,FIXED,Association of protocol with Experiment
+75,normal,P3,PC,RESOLVED,FIXED,USER SEARCH RESULT : Show only approved users to admin for Edit
+78,normal,P3,PC,RESOLVED,FIXED,Browser Problem - USER SEARCH RESULT does not work properly
+80,normal,P3,PC,RESOLVED,FIXED,"""Add New"" button - make it consistent with other screens"
+82,normal,P3,PC,RESOLVED,DUPLICATE,selected cohorts from popup
+83,normal,P3,PC,RESOLVED,FIXED,selected cohorts from popup
+85,normal,P3,PC,RESOLVED,FIXED,reset user password
+86,normal,P3,PC,RESOLVED,FIXED,The system logs you out to quickly
+87,normal,P3,PC,RESOLVED,FIXED,adding mice to cohorts
+99,normal,P3,PC,RESOLVED,FIXED,caMod linkage - Gene
+100,normal,P3,PC,RESOLVED,FIXED,caMod linkage - Models
+101,normal,P3,PC,RESOLVED,FIXED,common mouse parent / main strains
+106,normal,P3,PC,RESOLVED,FIXED,Earlier values does not get selected in edit mode.
+107,normal,P3,PC,RESOLVED,FIXED,Investigation stop date cannot be less than start date
+108,normal,P3,PC,RESOLVED,FIXED,Study should be closed if user has specified the investigation stop date
+109,normal,P3,PC,RESOLVED,FIXED,"PI, Created By and created date should be displayed in Study pages"
+111,normal,P3,PC,RESOLVED,FIXED,UI comments
+112,normal,P3,PC,RESOLVED,FIXED,creating new study I am not added automatically
+113,normal,P3,PC,RESOLVED,FIXED,The last study should be remembered as a cookie
+114,normal,P3,PC,RESOLVED,FIXED,The last experiment should be remembered as a cookie
+115,normal,P3,PC,RESOLVED,FIXED,creating new study I am not added automatically
+116,normal,P3,PC,RESOLVED,FIXED,Experiment searching - no way to limit by study
+117,normal,P3,PC,RESOLVED,FIXED,I want to be able to define the cohorts from the experiment page
+118,normal,P3,PC,RESOLVED,FIXED,cohort list needs pruning
+119,normal,P3,PC,RESOLVED,FIXED,cohort search needs...
+120,normal,P3,PC,RESOLVED,FIXED,"Signup form - ""State is invalid"" error message for optional dropdown"
+122,normal,P3,PC,RESOLVED,FIXED,Edit user - Assigned role does not reflect on ui in edit mode
+123,normal,P3,PC,RESOLVED,INVALID,"changes in ""Experimental Data Matrix"" page"
+124,normal,P3,PC,RESOLVED,FIXED,Add Experimental Data fails when no study is present
+125,normal,P3,PC,RESOLVED,FIXED,newly added study is not on list
+126,normal,P3,PC,RESOLVED,FIXED,required fields for animals
+128,normal,P3,PC,RESOLVED,FIXED,hypothesis
+129,normal,P3,PC,RESOLVED,FIXED,description
+131,normal,P3,PC,RESOLVED,FIXED,study is not remembered
+132,normal,P3,PC,RESOLVED,FIXED,"""Study requirment"""
+133,normal,P3,PC,RESOLVED,FIXED,getting mice from cms
+134,normal,P3,PC,RESOLVED,FIXED,ActiveWidgets 2.0 - Evaluation Version.
+135,normal,P3,PC,RESOLVED,FIXED,hand enrolling animals
+141,normal,P3,PC,RESOLVED,FIXED,can log in
+143,normal,P3,PC,RESOLVED,FIXED,Model Description URL should not be user input in study page
+145,normal,P3,PC,RESOLVED,FIXED,Create User: Phone number should not be required field
+146,normal,P3,Macintosh,RESOLVED,FIXED,[caElmir-1.0:Req-067]
+148,normal,P3,PC,RESOLVED,FIXED,recieved an error when I tried to log out
+150,normal,P3,PC,RESOLVED,FIXED,Can not add institution
+151,normal,P3,PC,RESOLVED,FIXED,Phone Post Hour
+152,normal,P3,PC,RESOLVED,FIXED,can't add users
+153,normal,P3,PC,RESOLVED,FIXED,add protocol events is not working on Mozilla firefox
+154,normal,P3,PC,RESOLVED,FIXED,Fatal exception when adding a user
+155,normal,P3,PC,RESOLVED,FIXED,Email confirmation not sent when user was added
+156,normal,P3,PC,RESOLVED,FIXED,Event Point in experimental data are out of order
+157,normal,P3,PC,RESOLVED,FIXED,Proteomics Reference Identifier
+158,normal,P3,PC,RESOLVED,FIXED,Condition for TgMouse is hard coded
+159,normal,P3,PC,RESOLVED,FIXED,Blank Event Point added
+161,normal,P3,PC,RESOLVED,FIXED,"""Workspace"" home page needs more details"
+167,normal,P3,PC,RESOLVED,FIXED,Footer links are not working
+170,normal,P3,PC,RESOLVED,FIXED,Add animalNumber in Animal Object
+172,normal,P3,PC,RESOLVED,FIXED,"""Define Event Records"" in left navigation panel should be in CAPS"
+174,normal,P3,PC,RESOLVED,FIXED,calender in protocol
+176,normal,P3,PC,RESOLVED,FIXED,adding pathology data
+177,normal,P3,PC,RESOLVED,FIXED,getting pathology data
+178,normal,P3,PC,RESOLVED,FIXED,FVB needs to be added to the background strain
+179,normal,P3,PC,RESOLVED,FIXED,most pages need a cancel button
+180,normal,P3,PC,RESOLVED,FIXED,pathology search criteria should be remembered
+181,normal,P3,PC,RESOLVED,FIXED,The right hand side list of selected  users is not remaining intact on change of user role.
