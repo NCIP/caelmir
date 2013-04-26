@@ -1,4 +1,5 @@
 Welcome to the caELMIR Project!
+===============================
 
 caELMIR provides the pre-clinical scientist with a data management system to record experimental data. caELMIR is developed using Java and requires Apache Ant for building.
 
